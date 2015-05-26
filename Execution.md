@@ -30,4 +30,4 @@ Please see the command line help for the most up to date options.
 
 # Overview of workflow
 
-![](wiki/images/cgpPindelDetailed.png)
+![](images/cgpPindelDetailed.png)

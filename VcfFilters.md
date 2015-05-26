@@ -155,11 +155,7 @@ Pass when < 11 bp and > 9 depth on both strands and event is not seen in 0.2 of 
 
 WGS,GERM
 
-# F013
-
-N/A - legacy
-
-# F014
+# F013/F014
 
 N/A - legacy
 
